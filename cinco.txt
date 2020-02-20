@@ -1,2 +1,3 @@
 55555555555
-Cinco asentamientos necesitan tu ayuda
+CincoCincoCinco
+NUNCA TE OLVIDES EL WHERE EN EL DELETE FROM
